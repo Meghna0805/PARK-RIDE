@@ -1,4 +1,4 @@
-# Park and Ride: Smart Parking & Last-Mile Connectivity Solution
+# UrbanZip: Smart Parking & Last-Mile Connectivity Solution
 
 A smart urban mobility platform that simplifies your commute.  
 This system enables real-time parking spot booking, last-mile shuttle/cab integration, and AI-powered dynamic pricing — all while supporting offline access and system fault-tolerance.
